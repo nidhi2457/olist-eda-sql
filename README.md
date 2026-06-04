@@ -106,7 +106,7 @@ olist-eda-sql/
 
 ---
 
-## ## 👩‍💻 About Me
+##  👩‍💻 About Me
 
 NIDHI KUMARI  
 Aspiring Data Analyst | SQL | Excel | Python (Learning)  
