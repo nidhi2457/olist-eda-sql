@@ -109,7 +109,7 @@ olist-eda-sql/
 ##  👩‍💻 About Me
 
 NIDHI KUMARI  
-Aspiring Data Analyst | SQL | Excel | Python (Learning)  
-nidhi2tiwari148@gmail.com  
+Aspiring Data Analyst | SQL | Excel | Python (Learning)
+linkedin.com/in/nidhi-kumari-2929983b4
 *This project was built as part of my data analytics learning journey 
-to demonstrate real-world SQL skills on a production-scale dataset.
+to demonstrate real-world SQL skills on a production-scale dataset.*
